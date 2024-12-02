@@ -1,0 +1,20 @@
+tea 1. MATHEMATICAL OPERATIONS
+tea ---------------------------------------------
+bruh x = 20
+bruh y = 5
+
+bruh sum = x twin y
+bruh diff = x flop y
+bruh prod = x thicc y
+bruh div = x ratio y
+
+itsgiving("Math Operations (x = 20, y = 5):")
+itsgiving("Addition: ")
+itsgiving(sum)
+itsgiving("Subtraction: ")
+itsgiving(diff)
+itsgiving("Multiplication: ")
+itsgiving(prod)
+itsgiving("Division: ")
+itsgiving(div)
+

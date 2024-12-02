@@ -1,0 +1,14 @@
+tea 3. GRADE CHECKER WITH IF/ELSE
+tea ---------------------------------------------
+bruh score = 85
+itsgiving("Student Score:")
+itsgiving(score)
+
+lethimcook score bigflex 90 {
+    bet {
+        itsgiving("fr you got an A!")
+    }
+    naur {
+        itsgiving("fr you got a B because you got an 85!")
+    }
+}

@@ -1,0 +1,8 @@
+tea 2. STRING CONCATENATION
+tea ---------------------------------------------
+bruh first = "Hello"
+bruh second = " Goofy!"
+bruh message = first gyat second
+itsgiving("String Result:")
+itsgiving(message)
+
